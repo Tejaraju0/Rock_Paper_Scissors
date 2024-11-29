@@ -1,3 +1,4 @@
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](https://teja-rock-paper-scissors.netlify.app)  
 # Rock Paper Scissors Game
 
 This is a simple **Rock Paper Scissors** game built with **HTML**, **CSS**, and **JavaScript**. It allows players to compete against the computer, keeps track of the scores, and stores the game data (like scores) in the browser's **localStorage**.
@@ -11,8 +12,7 @@ This is a simple **Rock Paper Scissors** game built with **HTML**, **CSS**, and 
 
 ## Live Demo
 
-Play the game live here: [Rock Paper Scissors - Live Demo](https://teja-rock-paper-scissors.netlify.app)  
-*(Replace `#` with the actual URL if you host the game on GitHub Pages, Netlify, or any other hosting platform.)*
+Play the game live here: [Rock Paper Scissors - Live Demo] . [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](https://teja-rock-paper-scissors.netlify.app)  
 
 ## How to Play
 
